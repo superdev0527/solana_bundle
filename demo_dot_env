@@ -1,0 +1,16 @@
+PRODUCTION = "0"
+
+PINATA_API_KEY="KEY"
+PINATA_API_SECRET_KEY="SECRET_KEY"
+PINATA_DOMAIN = "DOMAIN"
+
+# for testing only
+KEYPAIR ="KEYPAIR"
+SECOND_KEYPAIR="BUYER WALLET KEYAPIR"
+
+
+JITO_AUTH_KEYPAIR= "JITO APPROVED PUBKEY SECRET KEY"
+JITO_BLOCK_ENGINE_URL="tokyo.mainnet.block-engine.jito.wtf" # https://jito-labs.gitbook.io/mev/searcher-resources/block-engine/mainnet-addresses
+# JITO_BLOCK_ENGINE_URL="amsterdam.mainnet.block-engine.jito.wtf"
+# JITO_BLOCK_ENGINE_URL="ny.mainnet.block-engine.jito.wtf"
+BUYER1_KP = "BUYER KEYPAIR FOR BUY SELL"

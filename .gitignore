@@ -1,0 +1,8 @@
+.env
+node_modules
+dist
+.history
+
+poolsInfo.json
+
+*/test-ledger
